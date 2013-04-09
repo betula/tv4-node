@@ -1,0 +1,13 @@
+{
+  "name": "tv4-node",
+  "description": "Tiny Validator (for v4 JSON Schema)",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/betula/tv4-node"
+  },
+  "main": "./tv4.js",
+  "engines": {
+    "node": "*"
+  }
+}
